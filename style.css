@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+a,li {
+	text-decoration: none;
+	list-style: none;
+}
+.container{
+	max-width: 1150px;
+	margin: 0px auto;
+	
+}
+#hero {
+	height: 1000px;
+	background-color: blue;
+	background-image: url(images/bg.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center bottom;
+}
